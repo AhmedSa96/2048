@@ -70,26 +70,15 @@ Want to learn more about what we do with any information we collect? [Review th
 
 [1\. WHAT INFORMATION DO WE COLLECT?](#infocollect)
 
-[2\. HOW DO WE PROCESS YOUR INFORMATION?](#infouse)
+[2\. WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)
 
-[3\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)
+[3\. CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
 
-[4\. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?](#3pwebsites)
+[4\. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?](#otherlaws)
 
-[5\. HOW LONG DO WE KEEP YOUR INFORMATION?](#inforetain)
+[5\. DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
 
-[6\. WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)
-
-[7\. CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
-
-[8\. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?](#otherlaws)
-
-[9\. DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
-
-[10\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
-
-[11\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
-
+[6\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
   
 
   
@@ -102,77 +91,12 @@ Want to learn more about what we do with any information we collect? [Review th
 
   
 
-**_In Short:_** _We collect personal information that you provide to us._
+**_In Short:_** _We do not collect any data or information._
 
   
-
-We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
-
-  
-
 **Sensitive Information.** We do not process sensitive information.
 
-  
-
-All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
-
-  
-
-**2\. HOW DO WE PROCESS YOUR INFORMATION?**
-
-  
-
-**_In Short:_** _We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
-
-  
-
-**We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
-
-  
-
-**3\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?**
-
-  
-
-**_In Short:_** _We may share information in specific situations described in this section and/or with the following third parties._ 
-
-  
-
-We may need to share your personal information in the following situations:
-
-*   **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
-
-  
-
-**4\. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?**
-
-  
-
-**_In Short:_** _We are not responsible for the safety of any information that you share with third parties that we may link to or who advertise on our Services, but are not affiliated with, our Services._
-
-  
-
-The Services may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.
-
-  
-
-**5\. HOW LONG DO WE KEEP YOUR INFORMATION?**
-
-  
-
-**_In Short:_** _We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
-
-  
-
-We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).
-
-  
-
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
-
-  
-
-**6\. WHAT ARE YOUR PRIVACY RIGHTS?**
+**2\. WHAT ARE YOUR PRIVACY RIGHTS?**
 
   
 
@@ -192,7 +116,7 @@ If you have questions or comments about your privacy rights, you may email us at
 
   
 
-**7\. CONTROLS FOR DO-NOT-TRACK FEATURES**
+**3\. CONTROLS FOR DO-NOT-TRACK FEATURES**
 
   
 
@@ -200,7 +124,7 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
   
 
-**8\. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?**
+**4\. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?**
 
   
 
@@ -254,7 +178,7 @@ Complaints (complete POPIA/PAIA form 5): [PAIAComplaints@inforegulator.org.za](
 
   
 
-**9\. DO WE MAKE UPDATES TO THIS NOTICE?**
+**5\. DO WE MAKE UPDATES TO THIS NOTICE?**
 
   
 
@@ -280,14 +204,3 @@ AhmedSa
 
 \_\_\_\_\_\_\_\_\_\_
 
-  
-
-**11\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
-
-  
-
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/e2bd4b83-f076-4dfe-8a6e-b30eeb90f97b).
-
-ul { list-style-type: square; } ul > li > ul { list-style-type: circle; } ul > li > ul > li > ul { list-style-type: square; } ol li { font-family: Arial ; }
-
-This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
